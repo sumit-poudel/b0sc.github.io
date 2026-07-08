@@ -21,7 +21,8 @@
     "expiryDate": "2026-02-15",
     "logo": "/clients/internship/w3developers/logo.jpg",
     "poster": "/clients/internship/w3developers/poster.jpeg",
-    "category": "Development"
+    "category": "Development",
+    "note": "Applicant should bring their own devices for the interview test"
   },
   {
     "id": 2,
@@ -45,7 +46,8 @@
     "expiryDate": "2026-02-15",
     "logo": "/clients/internship/w3developers/logo.jpg",
     "poster": "/clients/internship/w3developers/poster2.jpeg",
-    "category": "Development"
+    "category": "Development",
+    "note": "Applicant should bring their own devices for the interview test"
   },
   {
     "id": 3,
@@ -66,7 +68,8 @@
     "expiryDate": "2026-02-15",
     "logo": "/clients/internship/w3developers/logo.jpg",
     "poster": "/clients/internship/w3developers/poster3.jpeg",
-    "category": "Development"
+    "category": "Development",
+    "note": "Applicant should bring their own devices for the interview test"
   },
   {
     "id": 4,
@@ -83,6 +86,25 @@
     "expiryDate": "2026-02-15",
     "logo": "/clients/internship/w3developers/logo.jpg",
     "poster": "/clients/internship/w3developers/poster4.jpeg",
-    "category": "Design"
+    "category": "Design",
+    "note": "Applicant should bring their own devices for the interview test"
+  },
+  {
+    "id": 5,
+    "title": "React Internship",
+    "company": "Cloud Sathi",
+    "location": "sharadpur - 3, Chitwan",
+    "type": "On-Site",
+    "duration": "3 months",
+    "stipend": "",
+    "description": "we are looking for a motivated React Developer to join their team as a 3-month full-time intern!",
+    "requirements": ["React", "Modern web development"],
+    "applyLink": "https://wa.me/+9779855016534?text=Hi!%20You%20shouldnt%20forget%20to%20attach%20your%20cv%0A-BOSC",
+    "postedDate": "2026-07-08",
+    "expiryDate": "2026-08-08",
+    "logo": "/clients/internship/cloudsathi/logo.jpeg",
+    "poster": "/clients/internship/cloudsathi/poster.jpeg",
+    "category": "Design",
+    "note": "A brief introduction highlighting your tech stack and porfolio is preferred."
   }
 ]
