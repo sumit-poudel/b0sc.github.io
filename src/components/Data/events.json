@@ -1,5 +1,51 @@
 [
   {
+    "id": 42,
+    "type": "Event",
+    "featured": true,
+    "name_1": "Aakar academy:",
+    "name_2": "React Workshop",
+    "desc": "Master the basics. The rest follows🍃. Grab the opportunity to strengthen your frontend development skills with React.⚡",
+    "year": 2026,
+    "date": " 2026/07/13 - 2026/07/17",
+    "time": "10:30 AM - 11:30 AM",
+    "venue": "Physical - BMC, Naubigha",
+    "organizer": ["BOSC"],
+    "partners": ["aakar academy"],
+    "mentors": [
+      {
+        "name": "Aakar Academy",
+        "image": "/mentors/aakar.jpg",
+        "designation": "Frontend Developer",
+        "tag": "IT Training institute",
+        "connect": "https://www.facebook.com/Aakaracademynepal"
+      }
+    ],
+    "guests": [],
+    "cover_photo": "/events/42/cover.jpg",
+    "background": "bg-lime-500",
+    "links": {
+      "blog": "/blogs/42",
+      "social": "https://www.facebook.com/birendraopensourceclub",
+      "registration": "https://forms.gle/wqKqGmVq4pnkT1Y1A"
+    },
+    "images": [],
+    "stats": {
+      "participants": 30,
+      "time": "Physical 10:30 AM - 11:30 AM",
+      "certificate": true,
+      "prize": false,
+      "entry_fee": 0,
+      "points": [
+        "🤑 Free Entry",
+        "</> Coding sessions",
+        "🔌 API integration",
+        "🛠️ project building",
+        "💼 Internship opportunity"
+      ]
+    }
+  },
+  {
     "id": 41,
     "type": "Event",
     "featured": true,
